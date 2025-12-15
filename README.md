@@ -45,7 +45,7 @@ Execute the programs and publish them.
     
 </body>
 </html>
-```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -66,7 +66,7 @@ Execute the programs and publish them.
     
 </body>
 </html>
-```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -88,7 +88,7 @@ Execute the programs and publish them.
     
 </body>
 </html>
-```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -108,20 +108,14 @@ Execute the programs and publish them.
     
 </body>
 </html>
-
+```
 
 ## OUTPUT
-
-
-
-
-
-
-
-## RESULT
 ![alt text](<Screenshot 2025-12-14 220405.png>)
 ![alt text](<Screenshot 2025-12-14 220514.png>)
 ![alt text](<Screenshot 2025-12-14 220610.png>)
 ![alt text](<Screenshot 2025-12-14 222247.png>)
+
+## RESULT
 
 The program for implementing image maps using HTML is executed successfully.
